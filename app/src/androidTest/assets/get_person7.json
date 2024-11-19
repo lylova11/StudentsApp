@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Arttu",
+        "last": "Leppo"
+      },
+      "location": {
+        "street": {
+          "number": 5572,
+          "name": "Pyynikintie"
+        },
+        "city": "Eura",
+        "state": "South Karelia",
+        "country": "Finland",
+        "postcode": 86828,
+        "coordinates": {
+          "latitude": "-25.2376",
+          "longitude": "-30.0186"
+        },
+        "timezone": {
+          "offset": "-10:00",
+          "description": "Hawaii"
+        }
+      },
+      "email": "arttu.leppo@example.com",
+      "login": {
+        "uuid": "181890bd-f4a2-4906-830d-b39b47d2028c",
+        "username": "angryswan765",
+        "password": "caca",
+        "salt": "9sQiMczr",
+        "md5": "2bbf82801260bf501c9bb7be91c1abaf",
+        "sha1": "6934b7237f577551ac5d764a0a23bd393305a415",
+        "sha256": "6a59dc52480551ddfbfa2a73a625b50e2818d3baf9b92bc1a44f5a0610aabf70"
+      },
+      "dob": {
+        "date": "1956-02-07T13:26:27.812Z",
+        "age": 68
+      },
+      "registered": {
+        "date": "2014-09-05T00:51:07.964Z",
+        "age": 10
+      },
+      "phone": "04-481-015",
+      "cell": "047-302-19-80",
+      "id": {
+        "name": "HETU",
+        "value": "NaNNA923undefined"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/69.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+      },
+      "nat": "FI"
+    }
+  ],
+  "info": {
+    "seed": "01b3d4b3798f9a39",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

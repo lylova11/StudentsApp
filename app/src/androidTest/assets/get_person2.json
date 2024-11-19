@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Sofie",
+        "last": "Christensen"
+      },
+      "location": {
+        "street": {
+          "number": 8414,
+          "name": "Lodsvej"
+        },
+        "city": "Kvistgaard",
+        "state": "Syddanmark",
+        "country": "Denmark",
+        "postcode": 29221,
+        "coordinates": {
+          "latitude": "-46.8247",
+          "longitude": "48.5424"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "sofie.christensen@example.com",
+      "login": {
+        "uuid": "e18ad76f-3882-42d0-8493-236ba55df77b",
+        "username": "bluecat287",
+        "password": "malaka",
+        "salt": "HFlkZabp",
+        "md5": "3efce2400fc84213e73298c2a180982d",
+        "sha1": "f1bab8f2880901ea1d54527df64ebc330289c971",
+        "sha256": "246fe4b3ca3e2f4a33a1a7f0e1427ce4a6d0e2da46a1a4c8cae6524b489a6fe9"
+      },
+      "dob": {
+        "date": "1968-04-09T05:46:12.732Z",
+        "age": 56
+      },
+      "registered": {
+        "date": "2016-06-15T12:44:45.554Z",
+        "age": 8
+      },
+      "phone": "33894472",
+      "cell": "51930681",
+      "id": {
+        "name": "CPR",
+        "value": "080468-6468"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+      },
+      "nat": "DK"
+    }
+  ],
+  "info": {
+    "seed": "1daa4ff86970cb4d",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

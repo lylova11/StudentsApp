@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Leevi",
+        "last": "Korhonen"
+      },
+      "location": {
+        "street": {
+          "number": 5808,
+          "name": "Suvantokatu"
+        },
+        "city": "Heinävesi",
+        "state": "Ostrobothnia",
+        "country": "Finland",
+        "postcode": 97176,
+        "coordinates": {
+          "latitude": "-29.6942",
+          "longitude": "-97.0089"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "leevi.korhonen@example.com",
+      "login": {
+        "uuid": "75a9d18f-1215-45c4-9760-bfeaa8c12409",
+        "username": "happybird767",
+        "password": "hotmail0",
+        "salt": "ekguvWsv",
+        "md5": "8d5b27a3673fae1fd738ace18f0aa0e2",
+        "sha1": "4d56dde6f38087e98734784eeec32fa4e6447b4c",
+        "sha256": "edcf028509d4181d0a82c48104db2ad318f180215b23d8152214c4cbf5743753"
+      },
+      "dob": {
+        "date": "1999-03-07T08:18:02.170Z",
+        "age": 25
+      },
+      "registered": {
+        "date": "2020-04-15T01:48:48.843Z",
+        "age": 4
+      },
+      "phone": "07-571-120",
+      "cell": "045-131-40-12",
+      "id": {
+        "name": "HETU",
+        "value": "NaNNA919undefined"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/63.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+      },
+      "nat": "FI"
+    }
+  ],
+  "info": {
+    "seed": "b3e4644ac7befab3",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

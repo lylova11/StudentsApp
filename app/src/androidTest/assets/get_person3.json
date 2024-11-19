@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Emily",
+        "last": "Thompson"
+      },
+      "location": {
+        "street": {
+          "number": 7409,
+          "name": "Vimy St"
+        },
+        "city": "Souris",
+        "state": "Saskatchewan",
+        "country": "Canada",
+        "postcode": "O0Q 8A8",
+        "coordinates": {
+          "latitude": "-64.7943",
+          "longitude": "118.6350"
+        },
+        "timezone": {
+          "offset": "-3:30",
+          "description": "Newfoundland"
+        }
+      },
+      "email": "emily.thompson@example.com",
+      "login": {
+        "uuid": "6ec5becd-98c6-4e2f-9e55-34fec2891e41",
+        "username": "goldenelephant327",
+        "password": "frogman",
+        "salt": "HVy4j7J3",
+        "md5": "9639adba573bbbf633f9b5686e34c37f",
+        "sha1": "7a8083da4074798dbaece689aecc02f8352e06ae",
+        "sha256": "0332bdbff08dcbd45294d3fd28d46cda5a863ccf603f4572ff58437fc75ee8a9"
+      },
+      "dob": {
+        "date": "2000-07-27T13:44:13.417Z",
+        "age": 24
+      },
+      "registered": {
+        "date": "2020-07-08T03:21:54.562Z",
+        "age": 4
+      },
+      "phone": "D55 C82-0592",
+      "cell": "O45 U49-3529",
+      "id": {
+        "name": "SIN",
+        "value": "538813890"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+      },
+      "nat": "CA"
+    }
+  ],
+  "info": {
+    "seed": "5391cc6f915af8d8",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
